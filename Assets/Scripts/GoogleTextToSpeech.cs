@@ -11,7 +11,8 @@ public class GoogleCloudTTS : MonoBehaviour
 
     public static GoogleCloudTTS Instance;
 
-    private string apiKey = "AIzaSyC54yBM_zkDNQc8-_ZlaPJjr1JN8mqIZsA";
+    // My api Key
+    private string apiKey = "";
     private const string postSynthURL = "https://texttospeech.googleapis.com/v1beta1/text:synthesize";
     private const string getVoicesURL = "https://texttospeech.googleapis.com/v1beta1/voices";
     private const double sampleRate = 24000;
