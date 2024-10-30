@@ -12,5 +12,8 @@
   - 공식 사이트에 묘사한 손동작을 모두 활용해 보려고 하였으나 실제로 사용해보니 인식이 잘 되지 않는 특정 손동작(Swip, Drop)이 있는 것을 알게 되었고 장소에 따라 손의 깊이 추적 상태가 상이한 것을 배웠습니다
 ---
 ## 게임 이미지
-
+![Image Sequence_003_0030](https://github.com/user-attachments/assets/f9f96f39-9363-4d53-88eb-b74581587532)
+![KakaoTalk_20241017_203545463_04](https://github.com/user-attachments/assets/7ac8fe53-dddb-4860-9389-f4201ddf929b)
+![KakaoTalk_20241017_203545463_03](https://github.com/user-attachments/assets/23b1e5db-81fb-4f31-8c31-0608057a1cb5)
+![KakaoTalk_20241017_203545463_05](https://github.com/user-attachments/assets/21124e3a-ec43-4e3e-a81c-6103b7dc17c6)
 
